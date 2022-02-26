@@ -4,8 +4,34 @@ body {
     padding: 0;
 }
 
-#ok{
+#box{
+    margin:1em;
+    height: 210px;
+    background-color:rgb(71, 161, 247) ;
+    border: 5px solid rgb(37, 37, 37);
+    border-radius:10px;
+}
+#box1{
+    width:70%;
+    float: left;
+    /* margin:5px; */
+    background-color: rgb(179, 212, 243);
+    padding:5px;
+}
 
+#box2{
+    width:30%;
+    height:100%;
+    float:right;
+    text-align:center;
+    margin-right:0px;
+    /* border: 5px solid rgb(49, 50, 117); */
+    /* border-radius:10px; */
+    background-color: rgb(71, 161, 247);
+    padding:5px;
+}
+
+#ok{
     width:10em; 
     height:20em;
 }
