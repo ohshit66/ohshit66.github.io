@@ -6,7 +6,7 @@ body {
 
 #box{
     margin:1em;
-    height:500px;
+    height:220px;
     background-color:rgb(71, 161, 247) ;
     border: 5px solid rgb(37, 37, 37);
     border-radius:10px;
@@ -17,6 +17,7 @@ body {
     height:100%;
     float: left;
     /* margin:5px; */
+    border-radius:10px;
     background-color: rgb(179, 212, 243);
     /* padding:1px; */
 }
