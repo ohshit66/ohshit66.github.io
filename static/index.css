@@ -6,8 +6,8 @@ body {
 
 #box{
     margin:1em;
-    height:500px;
-    background-color:rgb(71, 161, 247) ;
+    height:450px;
+    background-color:rgb(179, 212, 243);
     border: 5px solid rgb(37, 37, 37);
     border-radius:10px;
 }
@@ -30,7 +30,7 @@ body {
     margin-right:0px;
     /* border: 5px solid rgb(49, 50, 117); */
     /* border-radius:10px; */
-    background-color: rgb(71, 161, 247);
+    background-color: rgb(179, 212, 243);
 }
 
 #ok{
