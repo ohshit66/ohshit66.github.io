@@ -5,7 +5,7 @@ body {
 }
 
 #box{
-    margin:1em;
+    margin:5px;
     height:400px;
     background-color:rgb(179, 212, 243);
     border: 5px solid rgb(37, 37, 37);
